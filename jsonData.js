@@ -1,4 +1,4 @@
-{
+const data = {
     "424":{
         "name":"Category 1",
         "count":4425,
@@ -42,3 +42,6 @@
         }
     }
 }
+
+
+export default data
